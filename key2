@@ -1,5 +1,5 @@
 whitelist = {
 [godxnation] = true,
-[artnais] = true
+[artnais] = true,
 }
 return whitelist
