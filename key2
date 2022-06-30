@@ -1,5 +1,6 @@
-whitelist = {
-[godxnation] = true,
-[artnais] = true,
+return {
+"godxnation",
+"artanis",
+   
+
 }
-return whitelist
